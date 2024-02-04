@@ -1,4 +1,7 @@
 
+// In Node.js, the child_process module is used to spawn child processes. 
+// This module provides a way to execute external commands or other Node.js scripts as separate processes, 
+// allowing your application to interact with them.
 
 const cp = require('child_process')
 
