@@ -1,3 +1,5 @@
+ //OS Module is used to get the information about the current operating system eg.architecture,memeory,platform,networks,etc
+ 
  //Syntax for Os module
  
  const os = require('os');
