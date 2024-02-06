@@ -1,0 +1,3 @@
+This is the example of path module
+I am learning Node Js from scalar
+My experience is really good in learning .
