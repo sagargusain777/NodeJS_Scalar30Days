@@ -1,0 +1,1 @@
+I have written this content using writeFileSync method   New Data has been uploaded
