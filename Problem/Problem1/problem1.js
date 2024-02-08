@@ -23,6 +23,6 @@ function readFileContent(filepath){
 
 }
 
-readFileContent("C:\\Users\\verti\\Desktop\\Scalar30DaysNodeJS\\Problem\\test-files\\file1.txt")
-readFileContent("C:\\Users\\verti\\Desktop\\Scalar30DaysNodeJS\\Problem\\test-files\\empty-file.txt")
-readFileContent("C:\\Users\\verti\\Desktop\\Scalar30DaysNodeJS\\Problem\\test-files\\nonexistent-file.txt")
+readFileContent("C:\\Users\\verti\\Desktop\\Scalar30DaysNodeJS\\Problem\\Problem1\\test-files\\file1.txt")
+readFileContent("C:\\Users\\verti\\Desktop\\Scalar30DaysNodeJS\\Problem\\Problem1\\test-files\\empty-file.txt")
+readFileContent("C:\\Users\\verti\\Desktop\\Scalar30DaysNodeJS\\Problem\\Problem1\\test-files\\nonexistent-file.txt")
