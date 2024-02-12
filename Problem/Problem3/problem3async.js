@@ -8,10 +8,12 @@ function executeCommand(command){
 
         if(error){
             console.log(`Error : ${error.message}`);
+            return;
 
         }
         if(stderr){
             console.log(`Std Error : ${stderr}`)
+            return;
         }
         console.log(stdout);
 
